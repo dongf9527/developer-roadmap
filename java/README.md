@@ -3,6 +3,7 @@
 
 | Title | Link |
 | --- | --- |
+|Maven Tutorial for Beginners | [link](https://www.youtube.com/watch?v=x8sMN4tossY) |
 | Spring Boot Tutorial for Beginners (Java Framework) | [link](https://www.youtube.com/watch?v=vtPkZShrvXQ) |
 | Spring Boot Tutorials \| Full Course |  [link](https://www.youtube.com/watch?v=35EQXmHKZYs) |
 | SpringBoot_权威教程_spring boot_springboot核心篇+springboot整合篇 | [link](https://www.bilibili.com/video/BV1Et411Y7tQ/) |
